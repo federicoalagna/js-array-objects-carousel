@@ -61,3 +61,5 @@ function displayImage(index) {
     titleElement.textContent = title;
     descriptionElement.textContent = description;
 }
+
+
